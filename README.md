@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm denizhelheim
 
-<!--
-**denizhelheim/denizhelheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a solo game developer focusing on C programming and game development.
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sul0dev&show_icons=true&theme=neon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sul0dev&layout=compact&theme=neon)
+
+---
+
+### About Me
+
+- 🔭 I’m currently working on improving myself in game development and memory management in C programming.
+- 🌱 I’m currently learning memory management in C programming.
+- 👯 I’m looking to collaborate on indie game projects.
+- 🤔 I’m looking for help with modeling and animation, as I focus on the programming side of projects.
+- 💬 Ask me about C programming and general questions about Unreal Engine.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm playing electro guitar and I love retro/dark fantasy games.
