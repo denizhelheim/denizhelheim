@@ -2,9 +2,9 @@
 
 I'm a solo game developer focusing on C programming and game development.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sul0dev&show_icons=true&theme=neon)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denizhelheim&show_icons=true&theme=neon)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sul0dev&layout=compact&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizhelheim&layout=compact&theme=neon)
 
 ---
 
