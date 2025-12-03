@@ -1,13 +1,4 @@
 # Hi there 👋, I'm denizhelheim
-
-I'm a solo game developer focusing on C programming and game development.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denizhelheim&showicons=true&theme=neon)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizhelheim&layout=compact&theme=neon)
-
----
-
 ### About Me
 
 - 🔭 I’m currently working on improving myself in game development and memory management in C programming.
