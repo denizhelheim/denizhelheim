@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on Duskworn project, check it out on itch.io link in bio.
+- 🔭 I’m currently working on Duskworn and Helheim Engine projects, check it out on itch.io link in bio.
 - 🤔 I’m looking for help with modeling and animation, as I focus on the programming side of projects.
 - 😄 Pronouns: he/him
