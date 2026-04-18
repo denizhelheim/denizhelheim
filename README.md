@@ -4,7 +4,7 @@
   ⚔️Welcome To My Profile
 </h1>
 
-Unreal Engine | C & Low-Level Programming
+Unreal Engine | C
 
 <div>
   <img src="https://github.com/denizhelheim/denizhelheim/raw/main/knight.gif" width="300" />
@@ -16,4 +16,8 @@ Unreal Engine | C & Low-Level Programming
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denizhelheim&layout=compact&theme=dark)](https://github.com/denizhelheim)
 
+</div>
+
+<div>
+  Favorite Languages <img src="https://github.com/denizhelheim/denizhelheim/raw/main/c-language.png" width="100" />
 </div>
