@@ -4,8 +4,6 @@
   ⚔️Welcome To My Profile
 </h1>
 
-*Unreal Engine | C*
-
 ### 🖥️GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denizhelheim&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/denizhelheim)
@@ -22,5 +20,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/dragon.png"/>
+  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/dragon2.png"/>
 </div>
