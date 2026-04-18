@@ -4,12 +4,10 @@
   ⚔️Welcome To My Profile
 </h1>
 
-<h2>
-  *Unreal Engine | C*
-</h2>
+*Unreal Engine | C*
 
 <div>
-  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/knight.gif" width="300" />
+  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/hacking.gif" width="200" />
 </div>
 
 ### 🖥️GitHub Stats
