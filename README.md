@@ -4,7 +4,7 @@
   ⚔️Welcome To My Profile
 </h1>
 
-*Unreal Engine* | *C & Low-Level Programming*
+Unreal Engine | C & Low-Level Programming
 
 <div>
   <img src="https://github.com/denizhelheim/denizhelheim/raw/main/knight.gif" width="300" />
