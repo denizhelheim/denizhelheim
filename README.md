@@ -6,10 +6,6 @@
 
 *Unreal Engine | C*
 
-<div>
-  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/hacking.gif" width="200" />
-</div>
-
 ### 🖥️GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denizhelheim&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/denizhelheim)
@@ -23,4 +19,8 @@
     <img src="https://github.com/denizhelheim/denizhelheim/raw/main/c-language.png" width="100" />
     <img src="https://github.com/denizhelheim/denizhelheim/raw/main/cpp-language.png" width="100" />
   <h2\>
+</div>
+
+<div>
+  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/knight.gif" width="200" />
 </div>
