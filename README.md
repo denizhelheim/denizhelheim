@@ -18,6 +18,8 @@ Unreal Engine | C
 
 </div>
 
-<div>
-  Favorite Languages <img src="https://github.com/denizhelheim/denizhelheim/raw/main/c-language.png" width="100" />
+<div align="center">
+  <h2>
+    <img src="https://github.com/denizhelheim/denizhelheim/raw/main/c-language.png" width="100" />
+  <h2\>
 </div>
