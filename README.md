@@ -1,14 +1,12 @@
 <div align="center">
 
 ### Welcome To My Profile
-# ![cat]<img src="https://github.com/denizhelheim/denizhelheim/raw/main/cat-typing.gif" width="70" /> Süleyman Deniz Yünden
+#<img src="https://github.com/denizhelheim/denizhelheim/raw/main/cat-typing.gif" width="70" /> Süleyman Deniz Yünden
 **Game Developer** | **Unreal Engine** | **C & Low-Level Programming**
 
 <div>
   <img src="https://github.com/denizhelheim/denizhelheim/raw/main/knight.gif" width="300" />
 </div>
-
-
 
 ### 🖥️GitHub Stats
 
@@ -16,8 +14,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denizhelheim&layout=compact&theme=dark)](https://github.com/denizhelheim)
 
-</div>
-
-<div align="center">
-  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/knight.gif" width="350" alt="knight">
 </div>
