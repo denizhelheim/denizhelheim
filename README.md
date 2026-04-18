@@ -1,7 +1,6 @@
 <div align="center">
 
-### Welcome To My Profile
-**Süleyman Deniz Yünden**
+### ⚔️Welcome To My Profile
 *Game Developer* | *Unreal Engine* | *C & Low-Level Programming*
 
 <div>
