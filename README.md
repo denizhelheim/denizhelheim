@@ -9,5 +9,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/hacking.gif" width="350" alt="hacking">
+  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/knight.gif" width="350" alt="knight">
 </div>
