@@ -9,5 +9,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/cat-typing.gif" width="400" alt="Cat typing GIF">
+  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/cat-typing.gif" width="420" alt="Cat coding">
 </div>
