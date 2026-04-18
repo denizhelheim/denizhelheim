@@ -1,8 +1,8 @@
 <div align="center">
 
 ### Welcome To My Profile
-<img src="https://github.com/denizhelheim/denizhelheim/raw/main/cat-typing.gif" width="20" /> Süleyman Deniz Yünden
-**Game Developer** | **Unreal Engine** | **C & Low-Level Programming**
+**Süleyman Deniz Yünden**
+*Game Developer* | *Unreal Engine* | *C & Low-Level Programming*
 
 <div>
   <img src="https://github.com/denizhelheim/denizhelheim/raw/main/knight.gif" width="300" />
