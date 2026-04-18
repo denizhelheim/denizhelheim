@@ -1,6 +1,6 @@
 <div align="center">
 
-### GitHub Stats
+### 🖥️GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denizhelheim&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/denizhelheim)
 
