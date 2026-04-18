@@ -15,7 +15,3 @@
     <img src="https://github.com/denizhelheim/denizhelheim/raw/main/cpp-language.png" width="100" />
   <h2\>
 </div>
-
-<div align="center">
-  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/dragon2.png"/>
-</div>
