@@ -21,6 +21,6 @@
   <h2\>
 </div>
 
-<div>
-  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/knight.gif" width="200" />
+<div align="center">
+  <img src="https://github.com/denizhelheim/denizhelheim/raw/main/dragon.png"/>
 </div>
