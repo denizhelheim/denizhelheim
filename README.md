@@ -5,7 +5,6 @@
 
 <p align="center">
   Programming since 2020 · Game development since 2022<br>
-  Focused on C and Python
 </p>
 
 ---
