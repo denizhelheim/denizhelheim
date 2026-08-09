@@ -1,12 +1,11 @@
 <h1 align="center">Süleyman Deniz Yünden</h1>
 <p align="center">
   <strong>denizhelheim</strong><br>
-  Independent Game Developer · Programmer
 </p>
 
 <p align="center">
-  Programming since 2020 · Game development since 2023<br>
-  Focused on C, C++, Dart/Flutter and Unreal Engine
+  Programming since 2020 · Game development since 2022<br>
+  Focused on C and Python
 </p>
 
 ---
