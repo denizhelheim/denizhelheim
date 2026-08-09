@@ -3,12 +3,6 @@
   <strong>denizhelheim</strong><br>
 </p>
 
-<p align="center">
-  Programming since 2020 · Game development since 2022<br>
-</p>
-
----
-
 ### About
 
 Doing programming stuff since 2020 and still on today. Posting projects and study files. Addicted to computers and music.
