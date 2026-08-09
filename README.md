@@ -13,20 +13,14 @@
 
 ### About
 
-I am a self-taught programmer and independent game developer based in Türkiye.  
-I publish study projects, school assignments and personal tools here.  
-My main focus is systems programming and game development.  
-I currently work on **Duskworn** and a 2D terminal-based engine written in pure C.
-
-I handle the programming side of projects. I am looking for collaborators who can help with modeling and animation.
+Doing programming stuff since 2020 and still on today. Posting projects and study files. Addicted to computers and music.
 
 ---
 
 ### Current Focus
 
-- Developing **Duskworn** (dark fantasy dungeon crawler)
-- Building a lightweight 2D terminal game engine in C
-- Improving low-level systems knowledge (memory management, data structures)
+- Improving on Advanced C
+- Improving on Python
 
 ---
 
@@ -62,7 +56,3 @@ I handle the programming side of projects. I am looking for collaborators who ca
 - [W3Schools Profile](https://www.w3profile.com/denizhelheim)
 
 ---
-
-<p align="center">
-  <em>he/him · Türkiye</em>
-</p>
