@@ -18,7 +18,7 @@ Doing programming stuff since 2020 and still on today. Posting projects and stud
 
 ### Current Focus
 
-- Improving on Advanced C
+- Improving on C
 - Improving on Python
 
 ---
