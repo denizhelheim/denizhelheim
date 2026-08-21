@@ -1,21 +1,3 @@
-<h1 align="center">Süleyman Deniz Yünden</h1>
-<p align="center">
-  <strong>denizhelheim</strong><br>
-</p>
-
-### About
-
-Doing programming stuff since 2020 and still on today. Posting projects and study files. Addicted to computers and music.
-
----
-
-### Current Focus
-
-- Improving on C
-- Improving on Python
-
----
-
 ### Featured Repositories
 
 | Repository | Description | Language |
