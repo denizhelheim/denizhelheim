@@ -11,19 +11,8 @@
 
 ---
 
-### Games
-
-| Title | Description | Platform |
-|-------|-------------|----------|
-| [Duskworn](https://denizhelheim.itch.io/duskworn) | Dark fantasy dungeon crawler | itch.io |
-| [Orion Escape](https://denizhelheim.itch.io/orion-escape) | Top-down space shooter | itch.io |
-| [Soul's Cave](https://denizhelheim.itch.io/souls-cave) | Platformer – EgitiJam 26 | itch.io |
-
----
-
 ### Links
 
-- [GitHub](https://github.com/denizhelheim)
 - [itch.io](https://denizhelheim.itch.io)
 - [Personal Site](https://denizhelheim.github.io)
 - [YouTube](https://www.youtube.com/@denizhelheim)
