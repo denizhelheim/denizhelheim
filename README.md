@@ -8,14 +8,3 @@
 | [yealmun-site](https://github.com/denizhelheim/yealmun-site) | YEALMUN school website | HTML / CSS / JS |
 | [tedx-site](https://github.com/denizhelheim/tedx-site) | TEDxYEAL Youth event website | HTML / CSS / JS |
 | [denizhelheim.github.io](https://github.com/denizhelheim/denizhelheim.github.io) | Personal biography website (TR / EN) | HTML / CSS / JS |
-
----
-
-### Links
-
-- [itch.io](https://denizhelheim.itch.io)
-- [Personal Site](https://denizhelheim.github.io)
-- [YouTube](https://www.youtube.com/@denizhelheim)
-- [W3Schools Profile](https://www.w3profile.com/denizhelheim)
-
----
