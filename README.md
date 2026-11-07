@@ -1,5 +1,3 @@
-### Featured Repositories
-
 | Repository | Description | Language |
 |------------|-------------|----------|
 | [floresta-app](https://github.com/denizhelheim/floresta-app) | Gençbizz Floresta mobile application | Dart |
